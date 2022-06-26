@@ -1,3 +1,5 @@
 sampke test in first file
 second line
+conflict line from local repo
 line for conflict
+
